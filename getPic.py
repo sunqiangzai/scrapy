@@ -2,7 +2,9 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+chingswy
+
+python 爬取cc98指定版块的帖子图片
 """
 import requests
 import hashlib
